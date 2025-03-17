@@ -1,11 +1,11 @@
-import ListingPage from "@/pages/ListingPage";
+import NewsArticlePage from "@/pages/DetailedPage";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Kollegeapply",
-  description: "News Listing Page",
+  description: "Detailed News Article Page",
 };
 
 export default function Home() {
-  return <ListingPage />;
+  return <NewsArticlePage />;
 }

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "category": "College News",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/532ba4f00f2db36d3abe6980f24f9081f4af039d8089e5aee905ac08fd3ce5f4",
+    "title": "New Computer Science Lab Inaugurated at LPCPS",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "27 Dec 2023"
+  },
+  {
+    "id": 2,
+    "category": "Exam News",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/7706135e11d825e519ed5a1be6dbf933fa3a7f7d98c17a873fc3891f04571bb3",
+    "title": "Final Semester Examination Schedule Released",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "15 Jan 2024"
+  },
+  {
+    "id": 3,
+    "category": "Admission 2024",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/7040bef10ccc71b049a7bdc403bfcb1a18f621fd028176751f32b23619cb8ab5",
+    "title": "Admission Open for 2024-25 Academic Session",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "20 Feb 2024"
+  },
+  {
+    "id": 4,
+    "category": "College News",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/0c013464bf84a480643eb0e697d7586c0838edb97e52654713a33747b029c575",
+    "title": "Annual Cultural Fest Announced",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "05 Mar 2024"
+  },
+  {
+    "id": 5,
+    "category": "Exam News",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/532ba4f00f2db36d3abe6980f24f9081f4af039d8089e5aee905ac08fd3ce5f4",
+    "title": "Mid-Semester Assessment Guidelines Released",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "10 Mar 2024"
+  },
+  {
+    "id": 6,
+    "category": "Admission 2024",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/7706135e11d825e519ed5a1be6dbf933fa3a7f7d98c17a873fc3891f04571bb3",
+    "title": "Last Date for Early Admission Applications Extended",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "15 Mar 2024"
+  },
+  {
+    "id": 7,
+    "category": "College News",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/7040bef10ccc71b049a7bdc403bfcb1a18f621fd028176751f32b23619cb8ab5",
+    "title": "Sports Week 2024 Registration Begins",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "18 Mar 2024"
+  },
+  {
+    "id": 8,
+    "category": "Exam News",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/0c013464bf84a480643eb0e697d7586c0838edb97e52654713a33747b029c575",
+    "title": "Online Mock Test Series Launched for Final Year",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "20 Mar 2024"
+  },
+  {
+    "id": 9,
+    "category": "Admission 2024",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/532ba4f00f2db36d3abe6980f24f9081f4af039d8089e5aee905ac08fd3ce5f4",
+    "title": "Scholarship Program for Merit Students Announced",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "22 Mar 2024"
+  },
+  {
+    "id": 10,
+    "category": "College News",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/7706135e11d825e519ed5a1be6dbf933fa3a7f7d98c17a873fc3891f04571bb3",
+    "title": "Industry Expert Guest Lecture Series",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "25 Mar 2024"
+  },
+  {
+    "id": 11,
+    "category": "Exam News",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/7040bef10ccc71b049a7bdc403bfcb1a18f621fd028176751f32b23619cb8ab5",
+    "title": "Practical Examination Schedule Updated",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "27 Mar 2024"
+  },
+  {
+    "id": 12,
+    "category": "Admission 2024",
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/0c013464bf84a480643eb0e697d7586c0838edb97e52654713a33747b029c575",
+    "title": "Campus Tour Dates for New Applicants",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "30 Mar 2024"
+  }
+]

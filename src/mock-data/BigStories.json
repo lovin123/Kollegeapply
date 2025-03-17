@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/73e37533b9282211d19ba0fd50ca67663b66ed43c835b6072ca1ce4458bae046",
+    "title": "New AI and Machine Learning Program Launched",
+    "institution": "Lucknow Public College of Professional Studies",
+    "date": "27 Dec 2023",
+    "category": "College News"
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/7fff70416c5320357d1be39e181133ebcfa4dd6f7c1c5ac7bcfdb0007992e065",
+    "title": "JEE Main 2024 Registration Deadline Extended",
+    "institution": "National Testing Agency",
+    "date": "15 Jan 2024",
+    "category": "Exam News"
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/439117cb6733a45c83940f340a240a07bc9834d45e2bffa533655f1893300b05",
+    "title": "Special Admission Round for International Students",
+    "institution": "Delhi University",
+    "date": "20 Jan 2024",
+    "category": "Admission Alert"
+  },
+  {
+    "id": 4,
+    "image": "https://cdn.builder.io/api/v1/image/assets/TEMP/9440160649b039842596f4bd5c2dce3a322aa72956d5677b36efe2457400bb0a",
+    "title": "New Education Policy Implementation Updates",
+    "institution": "Ministry of Education",
+    "date": "05 Jan 2024",
+    "category": "Latest News"
+  }
+]
